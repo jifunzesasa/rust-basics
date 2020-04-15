@@ -1,0 +1,7 @@
+[package]
+name = "rust_basics"
+version = "0.1.0"
+authors = ["Alpha Olomi <alphaolomi@gmail.com>"]
+edition = "2020"
+
+[dependencies]
